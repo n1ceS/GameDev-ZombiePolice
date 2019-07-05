@@ -10,8 +10,8 @@ FSM i analiza poszczególnych faz przejść.Jak to przy projektowaniu gier bywa,
 ![Game Screen](images/zombie.PNG)
 
 ## [TOOLS]
--Unity 2019
--Visual Studio 2017
+* -Unity 2019
+* -Visual Studio 2017
 
 ## [MODELS]
 Zombie: https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
